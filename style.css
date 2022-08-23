@@ -1,0 +1,14 @@
+table,tr,th,td{
+
+
+border: 10px solid greenyellow;
+border-collapse:collapse;
+padding:20px;
+margin-left:500px;
+text-align:'right';
+color:blue;
+font-size: 30;
+
+
+
+}
